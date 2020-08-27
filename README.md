@@ -1,25 +1,26 @@
 Voltpotcoin integration/staging tree
 ================================
 
-http://www.voltpotcoin.org
+https://www.voltpot.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Voltpotcoin Developers
+Copyright (c) 2011-2014 Litecoincoin Developers
+Copyright (c) 2020 VOLTPOT® Developers
 
 What is Voltpotcoin?
 ----------------
 
 Voltpotcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 2 minute block targets
+ - subsidy halves in 168k blocks (~1 years)
+ - ~16.8 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 10 coins per block
+ - 576 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Voltpotcoin client sofware, see http://www.voltpotcoin.org.
+the Voltpotcoin client sofware, see https://www.voltpot.org.
 
 License
 -------
