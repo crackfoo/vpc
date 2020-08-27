@@ -1,7 +1,7 @@
 Voltpotcoin integration/staging tree
 ================================
 
-https://www.voltpot.org
+https://voltpot.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Litecoincoin Developers
@@ -20,7 +20,7 @@ The rest is the same as Bitcoin.
  - 576 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Voltpotcoin client sofware, see https://www.voltpot.org.
+the Voltpotcoin client sofware, see https://voltpot.org.
 
 License
 -------
