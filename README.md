@@ -17,7 +17,7 @@ Voltpotcoin is a lite version of Bitcoin using scrypt as a proof-of-work algorit
 
 The rest is the same as Bitcoin.
  - 10 coins per block
- - 576 blocks to retarget difficulty
+ - 288 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
 the Voltpotcoin client sofware, see https://voltpot.org.
